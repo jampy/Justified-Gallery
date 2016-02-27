@@ -1,6 +1,7 @@
 {
   "name": "justifiedGallery",
   "version": "3.6.2",
+  "main" : "dist/webpack-entrypoint.js",
   "engines": {
     "node": ">= 0.8.0"
   },
